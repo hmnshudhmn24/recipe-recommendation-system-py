@@ -51,6 +51,3 @@ Instructions: Cook pasta, prepare sauce, mix and serve.
 ## Notes
 - Ensure the `recipes.csv` file exists and is properly formatted.
 - The system uses **text processing techniques** to compare ingredients effectively.
-
-## License
-This project is open-source and free to use for educational and personal purposes.
